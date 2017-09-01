@@ -20,29 +20,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gund/ng-http-interceptor"
+    "url": ""
   },
   "author": {
     "name": "Alex Malkevich",
     "email": "malkevich.alex@gmail.com"
   },
-  "keywords": [
-    "ng",
-    "ng2",
-    "angular",
-    "angular2",
-    "http",
-    "interceptor",
-    "library"
-  ],
+  "keywords": [],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gund/ng-http-interceptor/issues"
-  },
-  "main": "./dist/bundles/ng-http-interceptor.umd.js",
-  "module": "./dist/bundles/ng-http-interceptor.es5.js",
-  "es2015": "./dist/bundles/ng-http-interceptor.es2015.js",
-  "typings": "./dist/ng-http-interceptor.d.ts",
+  "main": "dist/bundles/test-ng-npm.umd.js",
+  "module": "dist/bundles/test-ng-npm.es5.js",
+  "es2015": "dist/bundles/test-ng-npm.es2015.js",
+  "typings": "dist/test-ng-npm.d.ts",
   "dependencies": {
     "tslib": "^1.7.1"
   },
