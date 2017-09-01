@@ -1,0 +1,31 @@
+.vscode
+
+# Node
+node_modules/*
+npm-debug.log
+
+# TypeScript
+dist
+
+# JetBrains
+.idea
+.project
+.settings
+.idea/*
+*.iml
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+**/.DS_Store
+
+typings
+coverage
+.coveralls.yml
+
+# NG2 AOT
+/compiled
+*.metadata.json
